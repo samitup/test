@@ -1,0 +1,27 @@
+HELP.md
+
+node_modules
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+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
+git remote add origin https://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@github.com/samitup/Visma-Recruitment/Sami-Tuppurainen-26-03-2022.git
+git remote add origin https://github.com/Visma-Recruitment/Sami-Tuppurainen-26-03-2022.git
+git remote set-url origin https://github.com/samitup/Visma-Recruitment/Sami-Tuppurainen-26-03-2022.git
+git remote add origin https://github.com/samitup/Visma-Recruitment/Sami-Tuppurainen-26-03-2022.git
